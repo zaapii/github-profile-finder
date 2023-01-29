@@ -16,7 +16,7 @@ const UserResults = () => {
       </div>
     )
   } else {
-    return <CircleLoader className="mx-auto" color="#36d7b7" size="150" />
+    return <CircleLoader className="mx-auto" color="#36d7b7" size="150px" />
   }
 };
 
